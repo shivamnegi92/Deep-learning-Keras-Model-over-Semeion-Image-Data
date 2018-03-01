@@ -24,8 +24,7 @@ Each person wrote on a paper all the digits from 0 to 9, twice. The commitment w
 The MNIST dataset is very well studied. Below are some additional resources you might like to look into.
 
 * [The Official MNIST dataset webpage](https://archive.ics.uci.edu/ml/datasets/semeion+handwritten+digit)
-* Rodrigo Benenson’s webpage that lists state of the art results.
-* Kaggle competition that uses this dataset (check the scripts and forum sections for sample code)
-* Read-only model trained on MNIST that you can test in your browser (very cool)
+* [Rodrigo Benenson’s webpage that lists state of the art results.](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html#4d4e495354)
+* [Kaggle competition that uses this dataset] (https://www.kaggle.com/c/digit-recognizer) (check the scripts and forum sections for sample code)
+* [Read-only model trained on MNIST that you can test in your browser](http://myselph.de/neuralNet.html) (very cool)
 
-[Named Link](http://www.google.fr/) and http://www.google.fr/ or <http://example.com/>
